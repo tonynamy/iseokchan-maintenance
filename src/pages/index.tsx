@@ -20,7 +20,7 @@ export default function Home() {
           <br />
           시스템 복구 시까지 서비스 이용이 불가하오니 양해 부탁드립니다.
           <br />
-          예상 작업 완료 시각 : 2023년 5월 17일 0:00
+          예상 작업 완료 시각 : 2023년 8월 14일 0:00
           <br />
           개발자 연락처 :{" "}
           <a href="mailto:tonynamy@apperz.co.kr">tonynamy@apperz.co.kr</a>
